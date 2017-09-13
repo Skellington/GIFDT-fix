@@ -10,6 +10,7 @@ Also fix white font color in light background pages.
 
 - Stylish addon (https://addons.mozilla.org/en-US/firefox/addon/stylish/)
 
+- GIFDT-fix for Stylish (https://userstyles.org/styles/148092/gifdt-fix-global-input-fields-on-dark-themes-fix)
 ## Installation
 
 Arch Linux
@@ -22,4 +23,5 @@ Ubuntu / Linux Mint / ElementaryOS (on Debian, Firefox ESR is the default web br
 $ sudo apt install firefox
 ```
 
-After install Firefox, open it and then access the Stylish addon page and click on install.
+After install Firefox, open it and then access the Stylish addon page and click install.
+Once Stylish is installed, access the GIFDT-fix page at [userstyles.org](https://userstyles.org/styles/148092/gifdt-fix-global-input-fields-on-dark-themes-fix) and click install.
