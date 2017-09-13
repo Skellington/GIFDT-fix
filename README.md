@@ -21,3 +21,5 @@ Ubuntu / Linux Mint / ElementaryOS (on Debian, Firefox ESR is the default web br
 ```
 $ sudo apt install firefox
 ```
+
+After install Firefox, open it and then access the Stylish addon page and click on install.
