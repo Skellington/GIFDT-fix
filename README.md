@@ -18,7 +18,7 @@ Using your distro package manager is recommended.
 
 Arch Linux
 ```
-$ sudo pacman -S firefoxhttps://www.mozilla.org/en-US/firefox/
+$ sudo pacman -S firefox
 ```
 
 Ubuntu / Linux Mint / ElementaryOS (on Debian, Firefox ESR is the default web browser)
