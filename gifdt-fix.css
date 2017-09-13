@@ -23,6 +23,6 @@ select {
 }
 html {
     -moz-appearance: none !important;
-    background-color: white;
+    background-color: #777;
     color: black;
 }
