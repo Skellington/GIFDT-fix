@@ -8,8 +8,7 @@ Also fix white font color in light background pages.
 
 - Mozilla Firefox
 
-- [Stylish addon]
-[Stylish addon]: https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=ss
+- Stylish addon (https://addons.mozilla.org/en-US/firefox/addon/stylish/?src=ss)
 
 ## Installation
 
